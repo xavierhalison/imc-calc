@@ -1,0 +1,14 @@
+{
+  "name": "imc-calc",
+  "version": "1.0.0",
+  "description": "Uma simples calculadora de IMC.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Halison Xavier",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.7"
+  }
+}
